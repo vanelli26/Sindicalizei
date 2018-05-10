@@ -1,0 +1,8 @@
+{
+  "name": "sindicalizei",
+  "app_id": "50f866ef",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
